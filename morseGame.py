@@ -4,7 +4,6 @@ import os
 import termios
 import sys
 import tty
-import signal
 
 morse_code = {
     ".-": "A",
